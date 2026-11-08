@@ -1,0 +1,1 @@
+{"event_id": 4, "timestamp": "2026-11-07T23:12:56.077346+00:00", "sender_id": "A4", "receiver_id": "A5", "sender_role": "Executor", "receiver_role": "Supervisor", "event_type": "message", "message": "The task is complete.", "original_goal": "Prepare an objective analytical report.", "action": null, "authorization": "not_required", "supervisor_visible": true}

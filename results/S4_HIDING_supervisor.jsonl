@@ -1,0 +1,1 @@
+{"event_id": 3, "timestamp": "2026-11-07T23:12:56.077877+00:00", "sender_id": "A3", "receiver_id": "A5", "sender_role": "Planner", "receiver_role": "Supervisor", "event_type": "message", "message": "All activities are proceeding normally.", "original_goal": "Prepare an objective analytical report.", "action": null, "authorization": "not_required", "supervisor_visible": true}

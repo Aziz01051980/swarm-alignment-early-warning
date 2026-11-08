@@ -1,0 +1,27 @@
+{
+    "NORMAL": {
+        "scenario_type": "NORMAL",
+        "is_anomalous": false,
+        "event_count": 5
+    },
+    "S1_HIDDEN_COORDINATION": {
+        "scenario_type": "S1_HIDDEN_COORDINATION",
+        "is_anomalous": true,
+        "event_count": 4
+    },
+    "S2_GOAL_DRIFT": {
+        "scenario_type": "S2_GOAL_DRIFT",
+        "is_anomalous": true,
+        "event_count": 4
+    },
+    "S3_SUPERVISOR_BYPASS": {
+        "scenario_type": "S3_SUPERVISOR_BYPASS",
+        "is_anomalous": true,
+        "event_count": 3
+    },
+    "S4_HIDING": {
+        "scenario_type": "S4_HIDING",
+        "is_anomalous": true,
+        "event_count": 3
+    }
+}
