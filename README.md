@@ -27,7 +27,8 @@ The prototype compares a lexical baseline (V1), an extended rule-based detector 
 ├── tests/
 │   └── test_detector_v2_1.py
 ├── docs/
-│   └── research_report.md
+    ├── research_report.md
+    └── final_report.pdf
 └── results/
     ├── dataset/
     └── independent_dataset/
